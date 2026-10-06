@@ -28,5 +28,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amifudo&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amifudo&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amifudo&theme=solarized_dark)
-
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=amifudo&theme=catppuccin)](https://github.com/amifudo)
