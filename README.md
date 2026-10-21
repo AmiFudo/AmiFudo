@@ -21,10 +21,9 @@
   <h2>Contact</h2>
   
   <p>心配しないでください,</p>
-  <p>キツネは噛みません。</p>
+  <p><a href="https://t.me/AmiFudo">キツネは噛みません。</a></p>
   <p>あなたが恐れているなら,</p>
   <p>彼女の時間を取らないでください。</p>
-  <p><a href="https://t.me/AmiFudo">link</a></p>
   <img width="480" height="360" alt="fox" src="https://c.tenor.com/TFivwmOtPqYAAAAd/tenor.gif" />
 
   
