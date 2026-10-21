@@ -24,7 +24,7 @@
   <p>キツネは噛みません。</p>
   <p>あなたが恐れているなら,</p>
   <p>彼女の時間を取らないでください。</p>
-  <a href="https://t.me/AmiFudo">link</a>  
+  <p><a href="https://t.me/AmiFudo">link</a></p>
   <img width="480" height="360" alt="fox" src="https://c.tenor.com/TFivwmOtPqYAAAAd/tenor.gif" />
 
   
