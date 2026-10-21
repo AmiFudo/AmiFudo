@@ -19,9 +19,17 @@
 
 <div align="center">
   <h2>Contact</h2>
-  <a href="https://vk.ru/piklis" target="_blank" rel="noreferrer"><img src="https://vk.ru/images/icons/favicons/fav_logo.ico" alt="csharp" width="40" height="40"/></a>
-  <a href="https://discord.com/users/kitsune.painka" target="_blank" rel="noreferrer"><img src="https://sun9-87.vkuserphoto.ru/s/v1/ig2/ZrOh2ZfYpJrECFXDxm3lCmSxp-O2-FiEQ2eyyHOEp47xDwil32ksAduZ32RMPxwwLMK4qiVEuCmX1SsFSw24rpOTKuZcuw.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,512x512&from=bu&u=vwmRil3ufglYEQBeD9uTbvSDhwz-tPhnfHK0Z9hZKns&cs=512x0" width="40" height="40"/></a>
-  <a href="mailto:amifudo.game@gmail.com" target="_blank" rel="noreferrer"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon_gmail_2026_v2.ico" alt="csharp" width="40" height="40"/></a>
+  
+  <p>心配しないでください,</p>
+  <p>キツネは噛みません。</p>
+  <p>あなたが恐れているなら,</p>
+  <p>彼女の時間を取らないでください。</p>
+  <a href="https://t.me/AmiFudo">link</a>  
+  <img width="480" height="360" alt="fox" src="https://c.tenor.com/TFivwmOtPqYAAAAd/tenor.gif" />
+
+  
 </div>
+
+
 
 
